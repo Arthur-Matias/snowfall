@@ -45,7 +45,7 @@
 
 ## :dart: About ##
 
-Snowfall simulation made with P5JS/Processing. Check the [live version]()
+Snowfall simulation made with P5JS/Processing. Check the [live version](https://arthur-matias.github.io/snowfall/)
 
 ## :rocket: Technologies ##
 
