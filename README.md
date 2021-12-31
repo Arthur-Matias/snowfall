@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./src/assets/snow.gif" alt="Snowfall" />
+  <img src="./assets/snow.gif" alt="Snowfall" />
 
   &#xa0;
 
