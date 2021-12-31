@@ -9,6 +9,7 @@ export default class Snowflake{
     public acc: p5.Vector;
     public r: number;
     public mass: number;
+
     constructor(p:p5, _x?:number, _y?:number){
         this._p = p
 
@@ -35,8 +36,8 @@ export default class Snowflake{
     }
     update(){
         this.vel.add(this.acc)
-        this.vel.limit(this.r * 0.2);
 
+        this.vel.limit(this.r * 0.2);
         if (this.vel.mag() < 1) {
             this.vel.normalize()
         }
